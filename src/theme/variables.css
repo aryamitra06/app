@@ -234,3 +234,9 @@ http://ionicframework.com/docs/theming/ */
     --ion-card-background: #1e1e1e;
   }
 }
+ion-toolbar {
+  --background: #0b4cff;
+  --color: white;
+  --border-color: ;
+  --border-style: double;
+}
